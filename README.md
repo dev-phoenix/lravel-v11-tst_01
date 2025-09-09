@@ -14,3 +14,24 @@ REST API
 TypeScript + Next.js  
 Redis  
 MySQL  
+
+<style>
+    .f{display: flex;gap: 10px;align-items: center;justify-content: space-between;}
+    .f>*{border: 0px green solid}
+    .f>*{width: 30%;}
+</style>
+
+---
+### After clear install:
+<div class="f">
+
+**laravel 11:**  
+![laravel](./src/lara11_welcome.png)
+
+**api:**  
+![laravel](./src/lara11_api_welcome.png)
+
+**next.js:**  
+![laravel](./src/next_welcome.png)</div>
+
+---
